@@ -17,4 +17,4 @@ The Python script interfaces with the Arduino to read the cube’s colors, gener
 - 3D printed components
 
 ## Demo
-(You can add a link to your LinkedIn video here later)
+https://www.linkedin.com/posts/csynguyen_my-high-school-dream-came-true-i-finally-activity-7352407056970100738-47mi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiXO8sBgG7RQ06PezIRiNkfIsR_q4EHRTQ
